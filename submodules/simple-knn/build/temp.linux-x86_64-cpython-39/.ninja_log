@@ -1,0 +1,7 @@
+# ninja log v5
+1	19330	1744602756727349420	/mnt/RG/gaussian-splatting_sp_0/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	ee807b9ca80796b1
+0	40949	1744602778347159864	/mnt/RG/gaussian-splatting_sp_0/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	4fdd49ad60db05e
+1	79555	1744602816950825578	/mnt/RG/gaussian-splatting_sp_0/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	14004e910f808e3b
+1	10481	1754664932064800265	/mnt/RG_GPU5/RG_GS_sparse/sss_release/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/simple_knn.o	c58520cb2015ade8
+0	18769	1754664940340780004	/mnt/RG_GPU5/RG_GS_sparse/sss_release/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/ext.o	9d0161b228336dbb
+1	45676	1754664967252714103	/mnt/RG_GPU5/RG_GS_sparse/sss_release/submodules/simple-knn/build/temp.linux-x86_64-cpython-39/spatial.o	d70f577867cde3f9
