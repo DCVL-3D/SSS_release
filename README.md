@@ -146,7 +146,8 @@ If you find this work helpful, please consider citing:
 @ARTICLE{ryu2025sss,
   author={Ryu, Gun and Kim, Wonjun},
   journal={IEEE Signal Processing Letters}, 
-  title={Shape-Selective Splatting: Regularizing the Shape of Gaussian for Sparse-View Rendering}, 
+  title={Shape-Selective Splatting: Regularizing the Shape of Gaussian for Sparse-View Rendering},
+  year={2025},
   volume={32},
   pages={3172-3176},
   doi={10.1109/LSP.2025.3596225}
