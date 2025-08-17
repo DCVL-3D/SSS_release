@@ -5,7 +5,7 @@ This repository provides the official PyTorch implementation of the paper:
 
 by **Gun Ryu** and **Wonjun Kim (Corresponding Author)**  
 
-📄 *IEEE Signal Processing Letters (SPL), 2025*
+📄 *IEEE Signal Processing Letters, 2025.*
 
 ---
 
