@@ -1,11 +1,10 @@
 # 💡 Shape-Selective Splatting: Regularizing the Shape of Gaussian for Sparse-View Rendering
 
-This repository provides the official PyTorch implementation of the paper:  
-**[Shape-Selective Splatting: Regularizing the Shape of Gaussian for Sparse-View Rendering](https://ieeexplore.ieee.org/document/11119067?source=authoralert)**
+This repository provides the official PyTorch implementation of the paper **["Shape-Selective Splatting: Regularizing the Shape of Gaussian for Sparse-View Rendering"](https://ieeexplore.ieee.org/document/11119067?source=authoralert)**
 
-by **Gun Ryu** and **Wonjun Kim (Corresponding Author)**  
+Gun Ryu and Wonjun Kim (Corresponding Author) 
 
-📄 *IEEE Signal Processing Letters, 2025.*
+**IEEE Signal Processing Letters**, 2025.
 
 ---
 
