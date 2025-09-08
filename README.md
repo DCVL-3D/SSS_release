@@ -138,6 +138,17 @@ python metrics.py --model_paths ${MODEL_PATH}
 
 ---
 
+## License
+
+This project is licensed under the **Apache License 2.0**, with the exception of certain components derived from the [Gaussian Splatting](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) project.
+
+- **Apache License 2.0**: All original code written for SSS is released under the Apache 2.0 license. See [LICENSE](./LICENSE).
+- **Non-commercial License (Inria & MPII)**: Some parts of the code are based on Gaussian Splatting, which is licensed for **non-commercial research use only**. See [LICENSE_GAUSSIAN_SPLATTING.md](./LICENSE_GAUSSIAN_SPLATTING.md) for full terms.
+
+Please ensure that you comply with both licenses when using this repository.
+
+---
+
 ## 📎 Citation
 
 If you find this work helpful, please consider citing:
